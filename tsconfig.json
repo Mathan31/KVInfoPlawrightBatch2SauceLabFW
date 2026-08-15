@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs",
+    "types": ["node", "@playwright/test"],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strict": true
+  }
+}
